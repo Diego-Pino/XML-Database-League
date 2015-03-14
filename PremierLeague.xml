@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+/**
+ ***************************************************************************
+ *
+ *  Author Code: DiegoPino, diegopino@gmail.com
+ *  Basado en mis estudios de XML Schemas Database and XSL stands for EXtensible Stylesheet Language
+ *  Website: http://www.we11.net
+ *  License: Creative Commons http://creativecommons.org/licenses/by/4.0/legalcode
+ *
+ *  XML Database League standings to generate stats from a XML League to Page. for example: -FIFA World Cup,
+ *  Football Clubs / Leagues and Tournaments
+ *
+ ***************************************************************************​/
+ */
+-->
+
+
+
+<?xml-stylesheet type="text/xsl" href="XSLTLeague.xsl" ?>
+
+
+
+
+<League>
+
+<Team id="Arsenal">
+
+
+   <Team_Name>Arsenal FC</Team_Name>
+   <description>El Arsenal fue fundado en 1886 en Woolwich, en el sudeste de Londres. En 1893, se convirtió en el primer club del sur de Inglaterra en unirse a la Football League. En 1913 se mudaron a la parte norte de la ciudad hacia Highbury con sede en el Arsenal Stadium. En 2006 dejaron Highbury para jugar sus partidos de local en el nuevo Emirates Stadium, en Islington. uno de los equipos con más trofeos ganados del fútbol inglés. Ha ganado 13 títulos de Primera División y 11 Copas de Inglaterra. Es el único conjunto inglés que consiguió ganar la Premier League de manera invicta (temporada 2003/04).</description>
+   <City>Londres </City>
+   <Stadium>Emirates Stadium </Stadium>
+   
+   <Players>
+      <person>
+      <first_name>Thierry Henry</first_name>
+      <Country_birth>Frances</Country_birth>
+      <Position>CF</Position>
+      </person>
+      <person>
+      <first_name>Bacary Sagna</first_name>
+      <Country_birth>Francia</Country_birth>  
+      <Position>DF</Position>
+      </person>
+      <person>
+      <first_name>Dennis Bergkamp</first_name>
+      <Country_birth>Holanda</Country_birth>
+      <Position>MDO</Position>
+      </person>
+      <person>
+      <first_name>Robert Pirès</first_name>
+      <Country_birth>Francia</Country_birth>  
+      <Position>MD</Position>
+      </person>
+      <person>
+      <first_name>David Seaman</first_name>
+      <Country_birth>Inglaterra</Country_birth>  
+      <Position>MD</Position>
+      </person>
+      <person>
+      <first_name>Tony Adams</first_name>
+      <Country_birth>Inglaterra</Country_birth>  
+      <Position>MD</Position>
+      </person>
+      <person>
+      <first_name>David O'Leary</first_name>
+      <Country_birth>Inglaterra</Country_birth>  
+      <Position>DF</Position>
+      </person>
+      <person>
+      <first_name>Ian Wright</first_name>
+      <Country_birth>Inglaterra</Country_birth>  
+      <Position>DF</Position>
+      </person>
+      <person>
+      <first_name>Mikel Arteta </first_name>
+      <Country_birth>España</Country_birth>  
+      <Position>MD</Position>
+      </person>
+      <person>
+      <first_name>Lukas Podolski</first_name>
+      <Country_birth>Alemania</Country_birth>  
+      <Position>MD</Position>
+      </person>
+      <person>
+      <first_name>Robin Van Persie</first_name>
+      <Country_birth>Holanda</Country_birth>  
+      <Position>CF</Position>
+      </person>
+      <person>
+      <first_name>Ted Drake</first_name>
+      <Country_birth>Inglaterra</Country_birth>  
+      <Position>MD</Position>
+      </person>
+      <person>
+      <first_name>Olivier Giroud</first_name>
+      <Country_birth>Francia</Country_birth>  
+      <Position>DC</Position>
+      </person>
+      <person>
+      <first_name>Emiliano Viviano</first_name>
+      <Country_birth>Italia</Country_birth>  
+      <Position>GK</Position>
+      </person>
+      <person>
+      <first_name>Theo Walcott</first_name>
+      <Country_birth>Inglaterra</Country_birth>  
+      <Position>FW</Position>
+      </person>
+      <person>
+      <first_name>Chamberlain</first_name>
+      <Country_birth>Inglaterra</Country_birth>  
+      <Position>FW</Position>
+      </person>
+      <person>
+      <first_name>Ramsey</first_name>
+      <Country_birth>Italia</Country_birth>  
+      <Position>MF</Position>
+      </person>
+      <person>
+      <first_name>Nacho Monreal</first_name>
+      <Country_birth>España</Country_birth>  
+      <Position>DF</Position>
+      </person>
+      <person>
+      <first_name>Santi Cazorla</first_name>
+      <Country_birth>España</Country_birth>  
+      <Position>MF</Position>
+      </person>
+      <person>
+      <first_name>Mathieu Flamini</first_name>
+      <Country_birth>Francia</Country_birth>  
+      <Position>MF</Position>
+      </person>
+      <person>
+      <first_name>Yaya Sanogo</first_name>
+      <Country_birth>Francia</Country_birth>  
+      <Position>FW</Position>
+      </person>
+      <person>
+      <first_name>Abou Diaby</first_name>
+      <Country_birth>Francia</Country_birth>  
+      <Position>MF</Position>
+      </person>
+      <person>
+      <first_name>Park Chu-Young</first_name>
+      <Country_birth>Corea Norte</Country_birth>  
+      <Position>FW</Position>
+      </person>
+      <person>
+      <first_name>Serge Gnabry</first_name>
+      <Country_birth>Alemania</Country_birth>  
+      <Position>FW</Position>
+      </person>
+   </Players>
+
+</Team>
+
+<Team id="AstonVilla">
+
+
+   <Team_Name>Aston Villa</Team_Name>
+
+   <description>Es uno de los equipos más antiguos y laureados de Inglaterra, habiendo ganado siete veces la First Division Championship, otras siete la FA Cup, 5 Football League Cup y 1 Community Shield. También ganó en 1982 la Copa de Europa, actualmente conocida como la UEFA Champions League, </description>
+   <City>Londres </City>
+   <Stadium>Villa Park </Stadium>
+   <Players> 
+      <person>
+      <first_name>Nolberto Solano</first_name>
+      <Country_birth>Peru</Country_birth>
+      <Position>MD</Position>
+      </person>
+      <person>
+      <first_name>Gabby Agbonlahor</first_name>
+      <Country_birth>Inglaterra</Country_birth>  
+      <Position>DF</Position>
+      </person>
+      <person>
+      <first_name>Juan Pablo Angel</first_name>
+      <Country_birth>Colombia</Country_birth>
+      <Position>CF</Position>
+      </person>
+      <person>
+      <first_name>Gareth Barry</first_name>
+      <Country_birth>Inglaterra</Country_birth>
+      <Position>MD</Position>
+      </person>
+      <person>
+      <first_name>Darius Vassell</first_name>
+      <Country_birth>Inglaterra</Country_birth>
+      <Position>MF</Position>
+      </person>
+      <person>
+      <first_name>Leandro Bacuna</first_name>
+      <Country_birth>Holanda</Country_birth>
+      <Position>MD</Position>
+      </person>
+      <person>
+      <first_name>Ashley Westwood</first_name>
+      <Country_birth>Inglaterra</Country_birth>
+      <Position>MD</Position>
+      </person>
+      <person>
+      <first_name>Fabian Delph</first_name>
+      <Country_birth>Inglaterra</Country_birth>
+      <Position>MD</Position>
+      </person>
+      <person>
+      <first_name>Daniel Johnson</first_name>
+      <Country_birth>Inglaterra</Country_birth>
+      <Position>MD</Position>
+      </person>
+      <person>
+      <first_name>Charles N'Zogbia</first_name>
+      <Country_birth>Francia</Country_birth>
+      <Position>MD</Position>
+      </person>
+   </Players>
+
+</Team>
+
+<Team id="Burnley">
+
+   <Team_Name>Burnley</Team_Name>
+   <description>El Burnley Football Club es un club de fútbol de la ciudad inglesa de Burnley, en el condado de Lancashire. Fue fundado en 1882 y juega en la Premier League tras ascender en la temporada 2013/14</description>
+   <City>Londres </City>
+   <Stadium>Burnley </Stadium>
+   <Players> </Players>
+
+</Team>
+
+<Team id="Chelsea">
+
+   <Team_Name>Chelsea</Team_Name>
+   <description>Fue fundado el 10 de marzo de 1905. El Chelsea ha conseguido a nivel nacional cuatro Premier Leagues, siete FA Cups, cinco Football League Cups y cuatro Community Shields. En el ámbito europeo ha logrado una UEFA Champions League como su mayor logro, una UEFA Europa League, dos Recopas de Europa y una Supercopa de Europa. Su último logro fue ganar la UEFA Europa League, el 15 de mayo de 2013.4 Su rival tradicional es el Fulham FC, contra el cual se enfrenta en el Derbi del Oeste de Londres.5
+El Chelsea tuvo su primer momento de éxito en 1955, cuando ganó su primer campeonato de liga. Chelsea también consiguió importantes competiciones de copa durante los años 1960 y años 1970, pero no logró consagrarse en alguna otra hasta 1997. El más importante período de éxito del Chelsea fue cuando se consagró campeón de la Premier League en las temporadas 2004-05, 2005-06 y 2009-10 y cuando logró llegar a la final de la Liga de Campeones de la UEFA en la temporada 2007-08 y coronarse campeón de la edición 2011-12. El club también logró consagrase como el número 1 del Ránking de la UEFA en 2008, siendo el primer club inglés en haber logrado este galardón en el Siglo XXI</description>
+   <City>Londres </City>
+   <Stadium>Stamford Bridge </Stadium>
+   <Players> 
+      <person>
+      <first_name>Gianfranco Zola</first_name>
+      <Country_birth>Italia</Country_birth>
+      <Position>MD</Position>
+      </person>
+      <person>
+      <first_name>Peter Bonetti</first_name>
+      <Country_birth>Inglaterra</Country_birth>  
+      <Position>DF</Position>
+      </person>
+      <person>
+      <first_name>Ruud Gullit</first_name>
+      <Country_birth>Holanda</Country_birth>
+      <Position>MC</Position>
+      </person>
+      <person>
+      <first_name>John Hollins</first_name>
+      <Country_birth>Inglaterra</Country_birth>
+      <Position>MD</Position>
+      </person>
+      <person>
+      <first_name>John Terry</first_name>
+      <Country_birth>Inglaterra</Country_birth>
+      <Position>DF</Position>
+      </person>
+      <person>
+      <first_name>Frank Lampard</first_name>
+      <Country_birth>Inglaterra</Country_birth>
+      <Position>MD</Position>
+      </person>
+      <person>
+      <first_name>Didier Drogba</first_name>
+      <Country_birth>Costa de Marfil</Country_birth>
+      <Position>DC</Position>
+      </person>
+      <person>
+      <first_name>Kerry Dixon</first_name>
+      <Country_birth>Inglaterra</Country_birth>
+      <Position>MD</Position>
+      </person>
+      <person>
+      <first_name>Petr Cech</first_name>
+      <Country_birth>Rep. Cheka</Country_birth>
+      <Position>GK</Position>
+      </person>
+      <person>
+      <first_name>Arjen Robben</first_name>
+      <Country_birth>Holanda</Country_birth>
+      <Position>CD</Position>
+      </person>
+
+   </Players>
+
+</Team>
+
+<Team id="Crystal Palace">
+
+   <Team_Name>Crystal Palace</Team_Name>
+
+   <description>Crystal Palace Football Club es un club de fútbol de Inglaterra, de la parte sur de la ciudad de Londres. Fue fundado en 1905. Durante la temporada 2012-13 de la Football League Championship (Segunda División Del Fútbol Ingles), Palace terminó quinto y ganó el ascenso a la Premier League a través de los play-offs. En su primera temporada luego de ocho años en segunda división el Crystal Palace terminó 11 en la tabla, lo que le valió a Tony Pulis ser nombrado como Entrenador del Año de la Premier League</description>
+   <City>Londres </City>
+   <Stadium>Crystal Palace </Stadium>
+   <Players> </Players>
+
+</Team>
+
+<Team id="Everton">
+
+   <Team_Name>Everton</Team_Name>
+
+   <description>El Everton Football Club es un club de fútbol del Reino Unido, de la ciudad de Liverpool en el condado de Merseyside. El club compite en la Premier League, la competición más prestigiosa del fútbol británico. Ha competido en la liga de más alto nivel con un récord de 108 temporadas, ha jugado más partidos en estas ligas más que ningún otro equipo británico y ha salido campeón 9 veces—es el cuarto equipo con más copas de la liga.1 Everton ha permanecido en la Premier League desde 1954, y fue miembro fundador de la Premier League en 1992.</description>
+   <City>Londres </City>
+   <Stadium>Everton </Stadium>
+   <Players> </Players>
+
+</Team>
+
+<Team id="Hull">
+
+   <Team_Name>Hull</Team_Name>
+   <description>El Hull City es un club de fútbol de Inglaterra, de la ciudad de Kingston upon Hull en Yorkshire. Fue fundado en 1904 y a partir de la temporada 2013/14 se desempeña en la Premier League, la máxima división del fútbol inglés.</description>
+   <City>Londres </City>
+   <Stadium>Hull</Stadium>
+   <Players> </Players>
+
+</Team>
+
+<Team id="Leicester">
+
+   <Team_Name>Leicester</Team_Name>
+   <description>Se fundó en 1884 y desde la temporada 2014/2015 juega en la FA Premier League. Regreso a la Premier League luego de estar más de diez años relegado de esta división.
+
+El Leicester City fue elegido para disputar la Football League en 1894. El logro más alto en la historia del club a nivel liga fue el haber alcanzado el segundo lugar en la máxima categoría en 1928-1929. El club tiene siete títulos de segunda división (seis Second Division y uno Football League Championship) y uno más de la Football League One. También han ganado la Copa de la Liga en tres ocasiones y han sido subcampeones de la FA Cup cuatro veces, un record de derrotas en finales en donde aún siguen sin haber logrado el título.</description>
+   <City>Londres </City>
+   <Stadium>Leicester </Stadium>
+   <Players> </Players>
+
+</Team>
+
+<Team id="Liverpool">
+
+   <Team_Name>Liverpool</Team_Name>
+   <description>Juega en el histórico estadio Anfield y utiliza una indumentaria totalmente roja. Su clásico rival más importante es el Manchester United, una rivalidad que se remonta a 1897. Otro clásico importante es el que disputa con Everton, el equipo que jugaba originalmente en Anfield y cuya retirada del estadio motivó que el dueño fundara el Liverpool Football Club.
+
+Liverpool es el equipo inglés con el mayor número de títulos de Campeón de Europa, con cinco trofeos obtenidos frente a tres de Manchester United, dos de Nottingham Forest y uno del Aston Villa y Chelsea. Además, durante décadas el club con el mayor número de títulos en la First Division / Premier League con 18 títulos.
+
+   </description>
+   <City>Londres </City>
+   <Stadium>Liverpool </Stadium>
+   <Players> </Players>
+
+</Team>
+
+<Team id="ManchesterCity">
+
+   <Team_Name>Manchester City</Team_Name>
+   <description>Fue fundado en 1880 como St. Marks (West Gorton); luego, pasó a denominarse Ardwick A.F.C. y finalmente el 16 de abril de 1894 cambió su nombre por el de Manchester City F.C. A lo largo de su historia, el club ha ganado la Premier League en cuatro ocasiones y ha sido subcampeón en otras cuatro ocasiones. Ha ganado la FA Cup en cinco ocasiones y alcanzó otras cinco finales. Además, tiene tres Football League Cup, cuatro Community Shield y una Recopa de Europa.
+
+Después de perder la final de la FA Cup de 1981, el club pasó por un período de decadencia, que culminó en 1998 con su descenso a la tercera división del fútbol inglés, siendo la primera vez en su historia. Después de recuperar su sitio en la Premier League el 1 de septiembre de 2008, Abu Dhabi United Group for Development and Investment, un grupo inversor de los Emiratos Árabes con Mansour bin Zayed Al-Nahyan como máximo accionista, se hizo con el control del club por unos 250 millones de euros, relevando a Thaksin Shinawatra, hasta entonces dueño del club.
+   </description>
+   <City>Londres </City>
+   <Stadium>ManchesterCity </Stadium>
+   <Players> </Players>
+
+</Team>
+
+<Team id="ManchesterUnited">
+
+   <Team_Name>Manchester United</Team_Name>
+   <description>Nació bajo la denominación «Newton Heath LYR Football Club» en 1878, siendo el equipo del depósito ferroviario Lancashire and Yorkshire Railway Company, ubicado en Newton Heath.2 El club se incorporó a la First Division en 1892.2 5 Tras estar cerca de la bancarrota en 1902, J. H. Davies tomó las riendas del club y cambió el nombre, llamándolo Manchester United.6 Su estadio fue bombardeado durante la Segunda Guerra Mundial lo que motivó al club a buscar la caridad de sus vecinos del Manchester City, quienes les permitieron jugar en Maine Road durante un tiempo a cambio de un costo anual.7 8 El United nombró a Matt Busby como entrenador del equipo tras la guerra y su política, por entonces inaudita, de la promoción de la mayor parte de los jugadores del equipo juvenil del club tuvo un gran éxito, al ganar la liga en 1956 y 1957.9 Este éxito tuvo un alto en el camino con el desastre aéreo de Múnich de 1958, en el que ocho jugadores del equipo perdieron la vida.10 11 A pesar de dicha tragedia, el conjunto supo recuperarse y ganó la liga en 1965 y 1967, así como la Copa Europea en 1968. El club no tuvo de nuevo un éxito tan notable hasta la década de 1990, cuando Alex Ferguson dirigió al equipo a la obtención de ocho campeonatos ligueros en once años. En 1999, el Manchester United se convirtió en el primer equipo inglés en ganar la Champions, la Premier League y la FA Cup en la misma temporada —el «triplete» del club—.12
+
+Entre sus principales logros a nivel nacional se encuentran haber ganado la First Division/Premier League en 20 ocasiones, la FA Cup en 11 y la Supercopa de Inglaterra en 20, récords absolutos en los tres casos, además de cuatro ediciones de la Copa de la Liga de Inglaterra. A nivel europeo, ha obtenido tres veces la Liga de Campeones, empatado en séptimo lugar y segundo mejor inglés, además de una Recopa de Europa.13 Es el único club inglés en convertirse en campeón mundial de clubes, al conquistar la Copa Intercontinental en 1999 y la Copa Mundial de Clubes de la FIFA en 2008, tras derrotar a los entonces campeones de América Palmeiras y Liga de Quito, respectivamente.
+
+Los principales rivales del Manchester United han sido el Liverpool y Manchester City, a quien se enfrenta en el derby de Manchester.
+
+En la cultura popular, es considerado como uno de los más populares del mundo,14 debido a que cuenta con 659 millones de seguidores a nivel internacional hasta mayo de 2012, según una investigación realizada por la empresa Kantar. De esta cifra, 325 millones provienen del continente asiático, 173 millones del Oriente Medio y África, 90 millones de Europa y finalmente 71 millones de América.15 16 De igual manera, ha tenido el promedio de asistencia más alto en el fútbol inglés desde 1957, salvo algunas excepciones en que ha sido superado por el Tottenham, Everton y Liverpool.17
+   </description>
+   <City>Londres </City>
+   <Stadium>Manchester United </Stadium>
+   <Players> </Players>
+
+</Team>
+
+<Team id="Newcastle">
+
+   <Team_Name>Newcastle</Team_Name>
+   <description>Fundado en 1892 tras la fusión de dos equipos locales, el Newcastle East End y el Newcastle West End, al club se le conoce como The Magpies (Las Urracas) o The Toon. El Newcastle ha conquistado 4 títulos de la liga inglesa, todos conseguidos antes de la Segunda Guerra Mundial, y 6 FA Cups. A nivel internacional, ha ganado una Copa de Ferias en 1969 y en el 2006 la Copa Intertoto. El estadio del Newcastle, desde su fundación, es el St. James' Park.
+
+Tras la fusión de los dos clubes originarios en 1882, el Newcastle United siguió vistiendo el uniforme rojo del Newcastle East End dos años más. A partir de 1894 adoptaron la definitiva vestimenta a rayas verticales blancas y negras con los pantalones negros.
+
+El club ha sostenido una añeja rivalidad con sus vecinos Sunderland A.F.C. desde la primera vez que se enfrentaron en 1898</description>
+   <City>Londres </City>
+   <Stadium>Newcastle </Stadium>
+   <Players> </Players>
+
+</Team>
+
+<Team id="QPR">
+ 
+   <Team_Name>QPR</Team_Name>
+   <description>El Queens Park Rangers Football Club o QPR es un club de fútbol de Inglaterra, de Shepherd's Bush, en el distrito londinense de Hammersmith y Fulham. Fue fundado en 1882 y juega en la Barclays Premier League. Es conocido como el equipo que ha llegado a estar en Bancarrota.
+
+En agosto de 2007 el QPR fue comprado por el magnate de la Fórmula 1, Bernie Ecclestone y Flavio Briatore, que vendió un 20% a la familia del magnate de acero Lakshmi Mittal en diciembre de aquel año. Alejandro Agag también entró junto a Briatore en el accionariado del club.</description>
+   <City>Londres </City>
+   <Stadium>QPR </Stadium>
+   <Players> </Players>
+
+</Team>
+
+<Team id="Southampton">
+
+   <Team_Name>Southampton</Team_Name>
+   <description>El sueño de disputar la First League en The Dell se cumpliría por fin hasta 1966, cuando el equipo dirigido por Ted Bates consiguió el subcampeonato en la categoría, teniendo a Martin Chivers como autor de 30 de los 86 anotaciones en aquella temporada.
+
+A le temporada siguiente Ron Davies llegó para convertirse en el goleador del club, con 43 de los 74 goles que hizo el equipo en ese año. Southampton permaneció 8 años seguidos en la First League, siendo el séptimo puesto su mejor participación en las temporadas 1968-69 y 1970-71. Este séptimo lugar le fue suficiente para tener su primera participación en copas europeas, primero en la Copa de Ferias de 1969-70(eliminado en 3.ª ronda ante Newcastle United), y después en la Copa UEFA de 1971-72, donde el Athletic Bilbao se encargó de echarlos en la primera ronda.
+
+En diciembre de 1973, el longevo técnico Ted Bates se retiró para ser reemplazado por Lawrie McMenemy. Los Saints se convirtieron en las primeras víctimas del nuevo sistema de descenso de 3 en 1974, cuando fueron relegados, junto con el Manchester United y el Norwich City.
+   </description>
+   <City>Londres </City>
+   <Stadium>Southampton </Stadium>
+   <Players> </Players>
+
+</Team>
+
+<Team id="Spurs">
+
+   <Team_Name>Spurs</Team_Name>
+   <description>Tottenham Hotspur Football Club, también conocido como Los Spurs, es un club de fútbol inglés situado en Tottenham, Londres, que compite en la FA Premier League desde su inauguración (véase FA Premier League 1992 - 93). Ejerce de local en White Hart Lane, que posee capacidad para 36.284 espectadores.1
+
+Fundado en 1882, el Tottenham ganó por primera vez la FA Cup en 1901 (siendo hasta la actualidad el único club no perteneciente al sistema de Liga en hacerlo). El Tottenham fue el primer club del siglo XX en conseguir el doblete de Liga y Copa durante la temporada 1960-61. Luego de defender con éxito la FA Cup en 1962, en 1963 se convirtió en el primer equipo británico ganador de una competición internacional de la UEFA, al conquistar la Recopa de Europa en 1963.2 En 1967 se coronó campeón de la FA Cup por tercera vez en los años '60, finalizando su década más exitosa. Durante los años '70 Tottenham se consagró campeón de la League Cup en dos ocasiones, y se convirtió en el campeón inaugural de la Copa de la UEFA en 1972, siendo el primer club británico en lograr la consecución de dos trofeos europeos distintos. En la década de 1980 los spurs levantaron la FA Cup dos veces, la Charity Shield y la Copa de la UEFA en 1984. En los años 1990 el club ganó la FA Cup y la League Cup. Al consagrarse campeón de la League Cup por última vez en el año 2008, el Tottenham ha logrado obtener al menos un trofeo importante en cada una de las últimas seis décadas - logro sólo igualado por el Manchester United.
+
+El lema del club es Audere est facere (to dare is to do), que en español significa Atreverse es lograrlo, y su emblema actual es un gallo de pelea de pie sobre un balón de fútbol clásico. Posee una histórica rivalidad con sus vecinos del Arsenal, club con el cual disputa el Derbi del Norte de Londres
+   </description>
+   <City>Londres </City>
+   <Stadium>Spurs </Stadium>
+   <Players> </Players>
+
+</Team>
+
+<Team id="Stoke">
+
+   <Team_Name>Stoke</Team_Name>
+   <description>Fue fundado en 1863 y es uno de los clubes de futbol profesional más antiguo del mundo. En el equipo ha jugado muchos buenos futbolistas como Rory Delap, Charlie Adam, Asmir Begovic, Michael Owen, Peter Crouch y Stanley Matthews que ganó el primer Balón de Oro de la historia, fue un jugador extraordinario y es el mejor futbolista que ha jugado en el club.
+   </description>
+   <City>Londres </City>
+   <Stadium>Stoke </Stadium>
+   <Players> </Players>
+
+</Team>
+
+<Team id="Sunderland">
+
+   <Team_Name>Sunderland</Team_Name>
+   <description>El Sunderland Association Football Club es un club de fútbol de Inglaterra, de la ciudad de Sunderland en Tyne y Wear. Fue fundado en 1879 y juega en la Premier League de Inglaterra.
+
+El Sunderland supo saborear las mieles de la victoria cuando arrasaba en Inglaterra a fines del siglo XIX y principios del siglo XX. Antes de la Segunda Guerra Mundial, el Sunderland había sido campeón seis veces. Su último logro importante fue en 1936. Sin embargo, después de la Segunda Guerra Mundial, el Sunderland ganó la FA Cup en un partido no apto para cardíacos sobreponiéndose por 1 a 0 al poderoso Leeds United. Un personaje que no debe ser olvidado por ningún verdadero hincha del Sunderland es Jimmy Montgomery. Este arquero jugó un papel crucial para que el Sunderland obtuviera la FA Cup. Por desgracia para sus hinchas, 'Los Black Cats' han estado dando tumbos por las 3 divisiones del fútbol inglés desde los 70s.
+   </description>
+   <City>Londres </City>
+   <Stadium>Sunderland </Stadium>
+   <Players> </Players>
+
+</Team>
+
+<Team id="Swansea">
+
+   <Team_Name>Swansea</Team_Name>
+   <description>El Swansea City Association Football Club (en galés Clwb Pêl-droed Dinas Abertawe) es un club de fútbol de Gales de la ciudad de Swansea. Fue fundado en 1912 y juega en la Premier League de Inglaterra.
+
+Fundado en 1912 como Swansea Town AFC adoptó en 1969, tras obtener Swansea el estatus de ciudad, su actual denominación. Se unió a la Football League en 1921 y es miembro desde entonces. Entre 1981 y 1983 jugó en la First Division, máxima categoría del fútbol inglés, finalizando sexto en su primera temporada. En la temporada 2010/11 consiguió el ascenso a la Premier League, siendo el primer club de Gales que disputará esta competición desde su fundación en 1992.
+
+El Swansea City es uno de los 6 equipos galeses que participan en la liga inglesa. Hasta el año 1992 la FAW no organizaba ningún torneo liguero, con la puesta en marcha de la Welsh Premier League el Swansea rechazó la invitación para participar en ella. En 1996 dejó de participar en la Welsh Cup.
+   </description>
+   <City>Londres </City>
+   <Stadium>Swansea </Stadium>
+   <Players> </Players>
+
+</Team>
+
+<Team id="Westbrom">
+
+   <Team_Name>Westbrom</Team_Name>
+   <description>West Bromwich (cuyo nombre podría traducirse al español como Bromwich del Oeste) es una ciudad en el municipio metropolitano de Sandwell, en Midlands del Oeste, históricamente Staffordshire, Inglaterra. Se encuentra a 8 km (5 millas) al noroeste de Birmingham, junto a la carretera A41, que une Londres con Holyhead. West Bromwich forma parte del Black Country. West Bromwich es la mayor ciudad dentro del Municipio de Sandwell con una población de 136.940 (2001).
+
+El lema en el escudo de armas de la ciudad proclama en latín "Labor omnia vincit", que quiere decir "El Trabajo Conquista Todo".
+   </description>
+   <City>Londres </City>
+   <Stadium>Westbrom </Stadium>
+   <Players> </Players>
+
+</Team>
+
+<Team id="WestHam">
+
+   <Team_Name>West Ham</Team_Name>
+   <description>West Ham United FC (también conocido con los nombres The Irons, The Hammers (Los Martillos) y The Academy of Football) fue fundado en 1895 con el nombre de Thames Ironworks and Shipbuilding Co. Ltd. En 1900 se cambió el nombre por el actual. En el año 1919 el West Ham fue seleccionado para participar de la Football League Second Division, ascendiendo a la First Division en el año 1923, mismo año en que el club llegó a la final de la FA Cup, la primera que se jugó en el Estadio de Wembley, en la final conocida como la final del caballo blanco, la cual ganó el Bolton Wanderers por 2:0.
+
+En los Años 60 la prensa inglesa denominó al club The Academy of Football, debido a la cantidad de jóvenes talentos que procedían de su cantera.
+
+En 1964 ganó su primer título, la Copa de Inglaterra.
+
+En 1965 conquistó su primer título continental: la Recopa de Europa, venciendo en la final al alemán Múnich 1860. Volvió a reeditar sus laureles nacionales, en 1975, ganando de nuevo la Copa inglesa. Solo una temporada después, volvió a llegar a una final de la Recopa, pero la perdió ante el RSC Anderlecht belga.
+
+La etapa más gloriosa del club data de 1980 y de 1981. En esos años, el club estaba sumido en la segunda división, y primero, logró por tercera vez el trofeo de la FA, y el siguiente año, la liga de segunda división, con lo que desde 1981 hasta 1989, se mantienen en primera. Comienza un periodo de subidas y bajadas entre la segunda división (llamada Championship) a la que descienden nuevamente en 1992 ascendiendo nuevamente y una recién creada FA Premier League. Sufren otro descenso en el 2003 y no es hasta el 2005 cuando ascienden de nuevo a la Premier para acabar como colista en la temporada 2010-11.
+
+Su última alegría continental llegó en 1999, cuando ganó la Copa Intertoto, lo que le permitió disputar la Copa UEFA.
+
+   </description>
+   <City>Londres </City>
+   <Stadium>West Ham </Stadium>
+   <Players> </Players>
+
+</Team>
+
+</League>
