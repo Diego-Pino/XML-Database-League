@@ -30,7 +30,7 @@
     </head>
   	<body>
           <h1>
-  			
+  		<img src="images/premierleague-logo.png" alt="PremierLeague"/>	
                
 
   		</h1>
@@ -54,7 +54,14 @@
 <xsl:template match="Team">
   <div>
   	<h2>
+              <!-- Buscamos imagenes de los equipos  -->
+		    <xsl:for-each select="image">
+              <img class="profile" src="{src}" />
+              </xsl:for-each>
+              <xsl:text>  </xsl:text>
+              <!-- Fin de Buscar imagenes de los equipos  -->
 
+  
           <xsl:value-of select="Team_Name"/>    
     		(
   		<xsl:value-of select="@id"/>
