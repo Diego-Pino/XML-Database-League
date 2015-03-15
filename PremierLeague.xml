@@ -27,7 +27,10 @@
 
 <Team id="Arsenal">
 
-
+   <image>
+   <src>images/arsenal.png</src>
+   <title>Arsenal FC</title>
+   </image>
    <Team_Name>Arsenal FC</Team_Name>
    <description>El Arsenal fue fundado en 1886 en Woolwich, en el sudeste de Londres. En 1893, se convirtió en el primer club del sur de Inglaterra en unirse a la Football League. En 1913 se mudaron a la parte norte de la ciudad hacia Highbury con sede en el Arsenal Stadium. En 2006 dejaron Highbury para jugar sus partidos de local en el nuevo Emirates Stadium, en Islington. uno de los equipos con más trofeos ganados del fútbol inglés. Ha ganado 13 títulos de Primera División y 11 Copas de Inglaterra. Es el único conjunto inglés que consiguió ganar la Premier League de manera invicta (temporada 2003/04).</description>
    <City>Londres </City>
@@ -160,7 +163,10 @@
 
 <Team id="AstonVilla">
 
-
+   <image>
+   <src>images/astonvilla.png</src>
+   <title> whatever title you want for the image</title>
+   </image>
    <Team_Name>Aston Villa</Team_Name>
 
    <description>Es uno de los equipos más antiguos y laureados de Inglaterra, habiendo ganado siete veces la First Division Championship, otras siete la FA Cup, 5 Football League Cup y 1 Community Shield. También ganó en 1982 la Copa de Europa, actualmente conocida como la UEFA Champions League, </description>
@@ -222,7 +228,10 @@
 </Team>
 
 <Team id="Burnley">
-
+   <image>
+   <src>images/burnley.png</src>
+   <title>FC Burnley</title>
+   </image>
    <Team_Name>Burnley</Team_Name>
    <description>El Burnley Football Club es un club de fútbol de la ciudad inglesa de Burnley, en el condado de Lancashire. Fue fundado en 1882 y juega en la Premier League tras ascender en la temporada 2013/14</description>
    <City>Londres </City>
@@ -232,7 +241,10 @@
 </Team>
 
 <Team id="Chelsea">
-
+   <image>
+   <src>images/chelsea.png</src>
+   <title>Chelsea FC</title>
+   </image>
    <Team_Name>Chelsea</Team_Name>
    <description>Fue fundado el 10 de marzo de 1905. El Chelsea ha conseguido a nivel nacional cuatro Premier Leagues, siete FA Cups, cinco Football League Cups y cuatro Community Shields. En el ámbito europeo ha logrado una UEFA Champions League como su mayor logro, una UEFA Europa League, dos Recopas de Europa y una Supercopa de Europa. Su último logro fue ganar la UEFA Europa League, el 15 de mayo de 2013.4 Su rival tradicional es el Fulham FC, contra el cual se enfrenta en el Derbi del Oeste de Londres.5
 El Chelsea tuvo su primer momento de éxito en 1955, cuando ganó su primer campeonato de liga. Chelsea también consiguió importantes competiciones de copa durante los años 1960 y años 1970, pero no logró consagrarse en alguna otra hasta 1997. El más importante período de éxito del Chelsea fue cuando se consagró campeón de la Premier League en las temporadas 2004-05, 2005-06 y 2009-10 y cuando logró llegar a la final de la Liga de Campeones de la UEFA en la temporada 2007-08 y coronarse campeón de la edición 2011-12. El club también logró consagrase como el número 1 del Ránking de la UEFA en 2008, siendo el primer club inglés en haber logrado este galardón en el Siglo XXI</description>
@@ -295,7 +307,10 @@ El Chelsea tuvo su primer momento de éxito en 1955, cuando ganó su primer camp
 </Team>
 
 <Team id="Crystal Palace">
-
+   <image>
+   <src>images/crystalpalace.png</src>
+   <title>crystal palace FC</title>
+   </image>
    <Team_Name>Crystal Palace</Team_Name>
 
    <description>Crystal Palace Football Club es un club de fútbol de Inglaterra, de la parte sur de la ciudad de Londres. Fue fundado en 1905. Durante la temporada 2012-13 de la Football League Championship (Segunda División Del Fútbol Ingles), Palace terminó quinto y ganó el ascenso a la Premier League a través de los play-offs. En su primera temporada luego de ocho años en segunda división el Crystal Palace terminó 11 en la tabla, lo que le valió a Tony Pulis ser nombrado como Entrenador del Año de la Premier League</description>
@@ -306,7 +321,10 @@ El Chelsea tuvo su primer momento de éxito en 1955, cuando ganó su primer camp
 </Team>
 
 <Team id="Everton">
-
+   <image>
+   <src>images/everton.png</src>
+   <title>Everton FC</title>
+   </image>
    <Team_Name>Everton</Team_Name>
 
    <description>El Everton Football Club es un club de fútbol del Reino Unido, de la ciudad de Liverpool en el condado de Merseyside. El club compite en la Premier League, la competición más prestigiosa del fútbol británico. Ha competido en la liga de más alto nivel con un récord de 108 temporadas, ha jugado más partidos en estas ligas más que ningún otro equipo británico y ha salido campeón 9 veces—es el cuarto equipo con más copas de la liga.1 Everton ha permanecido en la Premier League desde 1954, y fue miembro fundador de la Premier League en 1992.</description>
@@ -317,7 +335,10 @@ El Chelsea tuvo su primer momento de éxito en 1955, cuando ganó su primer camp
 </Team>
 
 <Team id="Hull">
-
+   <image>
+   <src>images/hull.png</src>
+   <title>Hull image</title>
+   </image>
    <Team_Name>Hull</Team_Name>
    <description>El Hull City es un club de fútbol de Inglaterra, de la ciudad de Kingston upon Hull en Yorkshire. Fue fundado en 1904 y a partir de la temporada 2013/14 se desempeña en la Premier League, la máxima división del fútbol inglés.</description>
    <City>Londres </City>
@@ -327,7 +348,10 @@ El Chelsea tuvo su primer momento de éxito en 1955, cuando ganó su primer camp
 </Team>
 
 <Team id="Leicester">
-
+   <image>
+   <src>images/leicester.png</src>
+   <title>leicester image</title>
+   </image>
    <Team_Name>Leicester</Team_Name>
    <description>Se fundó en 1884 y desde la temporada 2014/2015 juega en la FA Premier League. Regreso a la Premier League luego de estar más de diez años relegado de esta división.
 
@@ -339,7 +363,10 @@ El Leicester City fue elegido para disputar la Football League en 1894. El logro
 </Team>
 
 <Team id="Liverpool">
-
+   <image>
+   <src>images/liverpool.png</src>
+   <title>liverpool Fc</title>
+   </image>
    <Team_Name>Liverpool</Team_Name>
    <description>Juega en el histórico estadio Anfield y utiliza una indumentaria totalmente roja. Su clásico rival más importante es el Manchester United, una rivalidad que se remonta a 1897. Otro clásico importante es el que disputa con Everton, el equipo que jugaba originalmente en Anfield y cuya retirada del estadio motivó que el dueño fundara el Liverpool Football Club.
 
@@ -353,7 +380,10 @@ Liverpool es el equipo inglés con el mayor número de títulos de Campeón de E
 </Team>
 
 <Team id="ManchesterCity">
-
+   <image>
+   <src>images/manchestercity.png</src>
+   <title>manchestercity </title>
+   </image>
    <Team_Name>Manchester City</Team_Name>
    <description>Fue fundado en 1880 como St. Marks (West Gorton); luego, pasó a denominarse Ardwick A.F.C. y finalmente el 16 de abril de 1894 cambió su nombre por el de Manchester City F.C. A lo largo de su historia, el club ha ganado la Premier League en cuatro ocasiones y ha sido subcampeón en otras cuatro ocasiones. Ha ganado la FA Cup en cinco ocasiones y alcanzó otras cinco finales. Además, tiene tres Football League Cup, cuatro Community Shield y una Recopa de Europa.
 
@@ -366,7 +396,10 @@ Después de perder la final de la FA Cup de 1981, el club pasó por un período 
 </Team>
 
 <Team id="ManchesterUnited">
-
+   <image>
+   <src>images/manchesterunited.png</src>
+   <title>manchesterunited image</title>
+   </image>
    <Team_Name>Manchester United</Team_Name>
    <description>Nació bajo la denominación «Newton Heath LYR Football Club» en 1878, siendo el equipo del depósito ferroviario Lancashire and Yorkshire Railway Company, ubicado en Newton Heath.2 El club se incorporó a la First Division en 1892.2 5 Tras estar cerca de la bancarrota en 1902, J. H. Davies tomó las riendas del club y cambió el nombre, llamándolo Manchester United.6 Su estadio fue bombardeado durante la Segunda Guerra Mundial lo que motivó al club a buscar la caridad de sus vecinos del Manchester City, quienes les permitieron jugar en Maine Road durante un tiempo a cambio de un costo anual.7 8 El United nombró a Matt Busby como entrenador del equipo tras la guerra y su política, por entonces inaudita, de la promoción de la mayor parte de los jugadores del equipo juvenil del club tuvo un gran éxito, al ganar la liga en 1956 y 1957.9 Este éxito tuvo un alto en el camino con el desastre aéreo de Múnich de 1958, en el que ocho jugadores del equipo perdieron la vida.10 11 A pesar de dicha tragedia, el conjunto supo recuperarse y ganó la liga en 1965 y 1967, así como la Copa Europea en 1968. El club no tuvo de nuevo un éxito tan notable hasta la década de 1990, cuando Alex Ferguson dirigió al equipo a la obtención de ocho campeonatos ligueros en once años. En 1999, el Manchester United se convirtió en el primer equipo inglés en ganar la Champions, la Premier League y la FA Cup en la misma temporada —el «triplete» del club—.12
 
@@ -383,7 +416,10 @@ En la cultura popular, es considerado como uno de los más populares del mundo,1
 </Team>
 
 <Team id="Newcastle">
-
+   <image>
+   <src>images/newcastle.png</src>
+   <title>newcastle image</title>
+   </image>
    <Team_Name>Newcastle</Team_Name>
    <description>Fundado en 1892 tras la fusión de dos equipos locales, el Newcastle East End y el Newcastle West End, al club se le conoce como The Magpies (Las Urracas) o The Toon. El Newcastle ha conquistado 4 títulos de la liga inglesa, todos conseguidos antes de la Segunda Guerra Mundial, y 6 FA Cups. A nivel internacional, ha ganado una Copa de Ferias en 1969 y en el 2006 la Copa Intertoto. El estadio del Newcastle, desde su fundación, es el St. James' Park.
 
@@ -397,7 +433,10 @@ El club ha sostenido una añeja rivalidad con sus vecinos Sunderland A.F.C. desd
 </Team>
 
 <Team id="QPR">
- 
+   <image>
+   <src>images/qpr.png</src>
+   <title>QPR image</title>
+   </image>
    <Team_Name>QPR</Team_Name>
    <description>El Queens Park Rangers Football Club o QPR es un club de fútbol de Inglaterra, de Shepherd's Bush, en el distrito londinense de Hammersmith y Fulham. Fue fundado en 1882 y juega en la Barclays Premier League. Es conocido como el equipo que ha llegado a estar en Bancarrota.
 
@@ -409,7 +448,10 @@ En agosto de 2007 el QPR fue comprado por el magnate de la Fórmula 1, Bernie Ec
 </Team>
 
 <Team id="Southampton">
-
+   <image>
+   <src>images/southampon.png</src>
+   <title>southampon  image</title>
+   </image>
    <Team_Name>Southampton</Team_Name>
    <description>El sueño de disputar la First League en The Dell se cumpliría por fin hasta 1966, cuando el equipo dirigido por Ted Bates consiguió el subcampeonato en la categoría, teniendo a Martin Chivers como autor de 30 de los 86 anotaciones en aquella temporada.
 
@@ -424,7 +466,10 @@ En diciembre de 1973, el longevo técnico Ted Bates se retiró para ser reemplaz
 </Team>
 
 <Team id="Spurs">
-
+   <image>
+   <src>images/tottenham.png</src>
+   <title>tottenham Spurs </title>
+   </image>
    <Team_Name>Spurs</Team_Name>
    <description>Tottenham Hotspur Football Club, también conocido como Los Spurs, es un club de fútbol inglés situado en Tottenham, Londres, que compite en la FA Premier League desde su inauguración (véase FA Premier League 1992 - 93). Ejerce de local en White Hart Lane, que posee capacidad para 36.284 espectadores.1
 
@@ -439,7 +484,10 @@ El lema del club es Audere est facere (to dare is to do), que en español signif
 </Team>
 
 <Team id="Stoke">
-
+   <image>
+   <src>images/stoke.png</src>
+   <title>stoke city</title>
+   </image>
    <Team_Name>Stoke</Team_Name>
    <description>Fue fundado en 1863 y es uno de los clubes de futbol profesional más antiguo del mundo. En el equipo ha jugado muchos buenos futbolistas como Rory Delap, Charlie Adam, Asmir Begovic, Michael Owen, Peter Crouch y Stanley Matthews que ganó el primer Balón de Oro de la historia, fue un jugador extraordinario y es el mejor futbolista que ha jugado en el club.
    </description>
@@ -450,7 +498,10 @@ El lema del club es Audere est facere (to dare is to do), que en español signif
 </Team>
 
 <Team id="Sunderland">
-
+   <image>
+   <src>images/sunderland.png</src>
+   <title>sunderland FC image</title>
+   </image>
    <Team_Name>Sunderland</Team_Name>
    <description>El Sunderland Association Football Club es un club de fútbol de Inglaterra, de la ciudad de Sunderland en Tyne y Wear. Fue fundado en 1879 y juega en la Premier League de Inglaterra.
 
@@ -463,7 +514,10 @@ El Sunderland supo saborear las mieles de la victoria cuando arrasaba en Inglate
 </Team>
 
 <Team id="Swansea">
-
+   <image>
+   <src>images/swan.png</src>
+   <title>swan FC</title>
+   </image>
    <Team_Name>Swansea</Team_Name>
    <description>El Swansea City Association Football Club (en galés Clwb Pêl-droed Dinas Abertawe) es un club de fútbol de Gales de la ciudad de Swansea. Fue fundado en 1912 y juega en la Premier League de Inglaterra.
 
@@ -478,7 +532,10 @@ El Swansea City es uno de los 6 equipos galeses que participan en la liga ingles
 </Team>
 
 <Team id="Westbrom">
-
+   <image>
+   <src>images/albion.png</src>
+   <title>West Brown FC</title>
+   </image>
    <Team_Name>Westbrom</Team_Name>
    <description>West Bromwich (cuyo nombre podría traducirse al español como Bromwich del Oeste) es una ciudad en el municipio metropolitano de Sandwell, en Midlands del Oeste, históricamente Staffordshire, Inglaterra. Se encuentra a 8 km (5 millas) al noroeste de Birmingham, junto a la carretera A41, que une Londres con Holyhead. West Bromwich forma parte del Black Country. West Bromwich es la mayor ciudad dentro del Municipio de Sandwell con una población de 136.940 (2001).
 
@@ -491,7 +548,10 @@ El lema en el escudo de armas de la ciudad proclama en latín "Labor omnia vinci
 </Team>
 
 <Team id="WestHam">
-
+   <image>
+   <src>images/westham.png</src>
+   <title>westham  the image</title>
+   </image>
    <Team_Name>West Ham</Team_Name>
    <description>West Ham United FC (también conocido con los nombres The Irons, The Hammers (Los Martillos) y The Academy of Football) fue fundado en 1895 con el nombre de Thames Ironworks and Shipbuilding Co. Ltd. En 1900 se cambió el nombre por el actual. En el año 1919 el West Ham fue seleccionado para participar de la Football League Second Division, ascendiendo a la First Division en el año 1923, mismo año en que el club llegó a la final de la FA Cup, la primera que se jugó en el Estadio de Wembley, en la final conocida como la final del caballo blanco, la cual ganó el Bolton Wanderers por 2:0.
 
