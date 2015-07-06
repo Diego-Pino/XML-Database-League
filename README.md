@@ -25,7 +25,7 @@ More Info Update Incoming....
 
 This is [on GitHub](https://github.com/Diego-Pino/) info
 
-XML & XSLT [Example OnLine](http://xml.we11.net/PremierLeague.xml) XML & XSL Database League Test
+XML & XSLT [Example OnLine](http://diegopino.besaba.com/XML/PremierLeague.xml) XML & XSL Database League Test
 
 ## Version 1.1:  
 * Add Image to Teams of Premier League Database in file .Xml
@@ -45,6 +45,6 @@ XML & XSLT [Example OnLine](http://xml.we11.net/PremierLeague.xml) XML & XSL Dat
 
 ## Demo OnLine:
 
-That Link: [Demo OnLine Code XML & XSLT](http://xml.we11.net/PremierLeague.xml) info
+That Link: [Demo OnLine Code XML & XSLT](http://diegopino.besaba.com/XML/PremierLeague.xml) info
 
 
