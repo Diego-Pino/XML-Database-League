@@ -3,7 +3,7 @@ Database with Extensible Markup Language (XML) And Extensible Stylesheet Languag
 
 # XML Database League
 
-I Will Like to Created a Database with Extensible Markup Language (XML) And Extensible Stylesheet Language (XSL). 
+I will Like to Created a Database with Extensible Markup Language (XML) And Extensible Stylesheet Language (XSL). 
 
 The purpose is to develop a SimpleCode Database League to can display in a simple form to generate a League, Football Clubs / Leagues and Tournaments Information Like: Teams, Logos, Players
 
@@ -45,7 +45,8 @@ XML & XSLT [Example OnLine](http://diegopino.besaba.com/XML/PremierLeague.xml) X
 
 ## Demo OnLine:
 
-That Links: [Demo OnLine Code XML & XSLT](http://diegopino.besaba.com/XML/PremierLeague.xml) info
-Example 2 [Demo OnLine Code XML & XSLT](http://diegopino.besaba.com/XML/ligapremier.xml) Info2
+That Links:
+* [Demo OnLine Code XML & XSLT](http://diegopino.besaba.com/XML/PremierLeague.xml) Example 1
+* [Demo OnLine Code XML & XSLT](http://diegopino.besaba.com/XML/ligapremier.xml) Example 2
 
 
